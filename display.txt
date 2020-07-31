@@ -1,0 +1,13 @@
+     *******************************
+      1.Add student
+      2.Add student entry time
+      3.Add student exit time
+      4.Student status
+      5.Student details
+      6.student history
+      7.student list
+      8.Student registration check 
+      9.No.of warnings
+     10.Display all options
+      0.QUIT
+     *******************************
